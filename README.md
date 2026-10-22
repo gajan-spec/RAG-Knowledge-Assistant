@@ -14,6 +14,13 @@ Instead of sending an entire document to an AI model, the application extracts t
 
 The application is designed as an AI Developer portfolio project.
 
+**GitHub Repository:** https://github.com/gajan-spec/RAG-Knowledge-Assistant
+
+**Project Status:** Working prototype — local execution
+
+**AI Model:** Groq-hosted GPT-OSS 20B
+
+
 ## ✨ Key Features
 
 - **PDF Upload:** Upload and process text-based PDF documents.
@@ -80,11 +87,11 @@ AI Answer + Page References
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/RAG-Knowledge-Assistant.git
+git clone https://github.com/gajan-spec/RAG-Knowledge-Assistant.git
 cd RAG-Knowledge-Assistant
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username after creating the repository.
+Replace `gajan-spec` with your GitHub username after creating the repository.
 
 ### 2. Create a virtual environment
 
